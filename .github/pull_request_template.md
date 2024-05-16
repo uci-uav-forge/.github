@@ -1,6 +1,6 @@
 ---
-name: Standard issue template
-description: Default template for issues
+name: Standard PR template
+description: Default template for PRs
 ---
 
 ## Description
