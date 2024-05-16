@@ -1,8 +1,3 @@
----
-name: Standard PR template
-description: Default template for PRs
----
-
 ## Description
 <!--What does this PR do?-->
 
